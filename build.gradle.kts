@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
-    implementation("io.kotless", "lang", "0.1.3")
+    implementation("io.kotless", "ktor-lang", "0.1.3")
 }
 
 tasks {
