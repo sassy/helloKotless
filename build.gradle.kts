@@ -2,7 +2,7 @@ import io.kotless.plugin.gradle.dsl.kotless
 
 plugins {
     kotlin("jvm") version "1.3.72"
-    id("io.kotless") version "0.1.5" apply true
+    id("io.kotless") version "0.1.6" apply true
 }
 
 group = "io.github.sassy.hellokotless"
