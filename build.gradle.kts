@@ -1,7 +1,7 @@
 import io.kotless.plugin.gradle.dsl.kotless
 
 plugins {
-    kotlin("jvm") version "1.3.72"
+    kotlin("jvm") version "2.0.21"
     id("io.kotless") version "0.1.5" apply true
 }
 
